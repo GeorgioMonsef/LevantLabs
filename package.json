@@ -1,6 +1,6 @@
 {
   "homepage": "https://www.levantlabs.ca",
-  "name": "levant-labs",
+  "name": "levantlabs",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
