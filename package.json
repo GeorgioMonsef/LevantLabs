@@ -1,7 +1,7 @@
 {
   "name": "levant-labs",
   "version": "0.1.0",
-  "homepage": "https://www.levantlabs.com",
+  "homepage": "https://www.levantlabs.ca",
   "private": true,
   "dependencies": {
     "react": "^17.0.2",
