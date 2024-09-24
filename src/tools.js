@@ -35,7 +35,7 @@ const Tools = () => {
                 </div>
                 <ul className="list-inside text-teal-200">
                     <li className="bullet-point">High-performance laptops</li>
-                    <li className="bullet-point">IDEs and web integration software</li>
+                    <li className="bullet-point">IDEs and web integration softwares</li>
                     <li className="bullet-point">Graphics tablets for design work</li>
 
                 </ul>
