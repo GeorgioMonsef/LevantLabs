@@ -1,6 +1,6 @@
 {
   "homepage": "https://www.levantlabs.ca",
-  "name": "levantlabs",
+  "name": "levant-labs",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -21,9 +21,10 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "tailwind": "npx tailwindcss -i ./src/input.css -o ./src/output.css --watch",
-    "deploy": "gh-pages -d build"
-  },
+    "tailwind": "npx tailwindcss -i ./src/input.css -o ./src/output.css --watch"
+  }
+
+},
   "eslintConfig": {
     "extends": [
       "react-app",
@@ -49,3 +50,4 @@
     "tailwindcss": "^3.4.13"
   }
 }
+
