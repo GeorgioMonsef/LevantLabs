@@ -35,12 +35,8 @@ const Tools = () => {
                 </div>
                 <ul className="list-inside text-teal-200">
                     <li className="bullet-point">High-performance laptops</li>
-                    <li className="bullet-point">Dual monitors for enhanced productivity</li>
+                    <li className="bullet-point">IDEs and web integration software</li>
                     <li className="bullet-point">Graphics tablets for design work</li>
-                    <li className="bullet-point">Professional audio equipment for clear communication</li>
-                    <li className="bullet-point">Professional audio equipment for clear communication</li>
-                    <li className="bullet-point">Professional audio equipment for clear communication</li>
-                    <li className="bullet-point">Professional audio equipment for clear communication</li>
 
                 </ul>
             </div>
