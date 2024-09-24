@@ -1,0 +1,36 @@
+.bullet-points-container {
+    animation: fadeIn 1s ease-in-out;
+}
+
+.bullet-point {
+    position: relative;
+    padding-left: 20px; /* Space for the custom bullet */
+    margin-bottom: 10px; /* Space between bullets */
+    transition: transform 0.3s;
+}
+
+.bullet-point::before {
+    content: '●'; /* Custom bullet character */
+    color: #00bcd4; /* Bullet color */
+    position: absolute;
+    left: 0;
+    font-size: 1.5rem; /* Bullet size */
+    transform: translateY(-50%);
+    top: 50%;
+}
+
+.bullet-point:hover {
+    transform: scale(1.1); /* Scale on hover */
+}
+
+/* Animation for the list */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
