@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/repository-name/static/css/main.c2b26445.css",
-    "main.js": "/repository-name/static/js/main.d839392c.js",
-    "static/js/453.7f7708c1.chunk.js": "/repository-name/static/js/453.7f7708c1.chunk.js",
-    "static/media/ottawa.png": "/repository-name/static/media/ottawa.5685ca4481e6d2951044.png",
-    "static/media/fa-solid-900.ttf": "/repository-name/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
-    "static/media/fa-brands-400.ttf": "/repository-name/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
-    "static/media/fa-solid-900.woff2": "/repository-name/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
-    "static/media/fa-brands-400.woff2": "/repository-name/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
-    "static/media/fa-regular-400.ttf": "/repository-name/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
-    "static/media/fa-regular-400.woff2": "/repository-name/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
-    "static/media/fa-v4compatibility.ttf": "/repository-name/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
-    "static/media/fa-v4compatibility.woff2": "/repository-name/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
-    "index.html": "/repository-name/index.html",
-    "main.c2b26445.css.map": "/repository-name/static/css/main.c2b26445.css.map",
-    "main.d839392c.js.map": "/repository-name/static/js/main.d839392c.js.map",
-    "453.7f7708c1.chunk.js.map": "/repository-name/static/js/453.7f7708c1.chunk.js.map"
+    "main.css": "/LevantLabs/static/css/main.6988e7aa.css",
+    "main.js": "/LevantLabs/static/js/main.f2a99b57.js",
+    "static/js/453.7f7708c1.chunk.js": "/LevantLabs/static/js/453.7f7708c1.chunk.js",
+    "static/media/ottawa.png": "/LevantLabs/static/media/ottawa.5685ca4481e6d2951044.png",
+    "static/media/fa-solid-900.ttf": "/LevantLabs/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/LevantLabs/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/LevantLabs/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/LevantLabs/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/fa-regular-400.ttf": "/LevantLabs/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/fa-regular-400.woff2": "/LevantLabs/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/LevantLabs/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/LevantLabs/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/LevantLabs/index.html",
+    "main.6988e7aa.css.map": "/LevantLabs/static/css/main.6988e7aa.css.map",
+    "main.f2a99b57.js.map": "/LevantLabs/static/js/main.f2a99b57.js.map",
+    "453.7f7708c1.chunk.js.map": "/LevantLabs/static/js/453.7f7708c1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c2b26445.css",
-    "static/js/main.d839392c.js"
+    "static/css/main.6988e7aa.css",
+    "static/js/main.f2a99b57.js"
   ]
 }
