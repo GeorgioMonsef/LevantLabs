@@ -57,9 +57,6 @@ const Welcome = () => {
                 <p className="mt-4 text-xl text-gray-300 drop-shadow-md max-w-md">
                     Consultation, hosted, 48 hours. Let us help you bring your vision to life!
                 </p>
-                <p className="mt-4 text-lg text-gray-300 drop-shadow-md max-w-md">
-                    At Simplicity, we believe in creating seamless digital experiences that not only look stunning but also drive results.
-                </p>
                 <ul className="mt-8 list-disc list-inside text-gray-300">
                     <li className="animate-pulse">Custom Web Design</li>
                     <li className="animate-pulse">Responsive & Mobile-Friendly</li>
